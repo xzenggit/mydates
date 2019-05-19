@@ -9,5 +9,8 @@ setup(
     license='LICENSE',
     packages=['mydates'],
     description='An example of building Python package.',
-    install_requires=[]
+    install_requires=[
+    #'python>=3.6.0',
+    #'pandas>=0.10.0'
+    ]
 )
